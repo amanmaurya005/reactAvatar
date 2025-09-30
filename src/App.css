@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    height: 100vh;
+    position: relative;
+}
+.circle{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: green;
+    position: absolute;
+}
